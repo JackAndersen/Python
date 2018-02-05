@@ -19,7 +19,7 @@ inPath = r'C:\Users\b020719\Downloads\CVR\virk.csv' #wgs84 EPSG:4326
 #outPath = r'C:\Users\b020719\Desktop\test2.txt' #wgs84 EPSG:4326
 
 ##counters to allow more than 200 lookups per day.
-#useragent needs to be a string i therefore count at set the suffix to abc.
+#useragent needs to be a string i therefore count and set the suffix to abc.
 user_agent = 1
 user_suffix = 'abcd'
 count = 0
